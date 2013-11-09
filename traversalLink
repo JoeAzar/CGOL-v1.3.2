@@ -1,10 +1,7 @@
 
-
 import java.awt.*;
 
 import javax.swing.*;
-
-import GraphingIV.cubeUI;
 
 public class traversalLink extends JPanel
 {
