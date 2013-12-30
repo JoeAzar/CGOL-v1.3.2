@@ -1,6 +1,6 @@
-CGOL-v1.3.2
+CGOL-v1.4
 ===========
 
 My Conway's Game Of Life implementation.
 
-traversalCalc is where most of the magic happens.
+GridManager is where most of the magic happens.
